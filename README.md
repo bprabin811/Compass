@@ -1,3 +1,2 @@
 # COMPASS APP USING FLUTTER
 
-![](cps.png)

@@ -1,3 +1,3 @@
 # COMPASS APP USING FLUTTER
 
-![SAMPLE!](cps.png)
+![SAMPLE!](cps.png=200x200)
